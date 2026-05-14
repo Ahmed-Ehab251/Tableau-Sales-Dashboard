@@ -13,7 +13,7 @@ Interactive dashboard built using Tableau to analyze sales performance.
 
 ## Dashboard Preview
 
-![Sales Dashboard](Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
